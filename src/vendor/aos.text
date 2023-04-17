@@ -1,0 +1,6 @@
+<link href="aos/dist/aos.css" rel="stylesheet">
+<script src="aos/dist/aos.js"></script>
+
+<script>
+	AOS.init();
+</script>
